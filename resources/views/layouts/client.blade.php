@@ -27,8 +27,8 @@
         <h1>Footer</h1>
     </footer>
 
-    <script src="{{assets('assets/clients/js/bootstrap.min.js')}}"></script>
-    <script src="{{assets('assets/clients/js/custom.js')}}"></script>
+    <script src="{{asset('assets/clients/js/bootstrap.min.js')}}"></script>
+    <script src="{{asset('assets/clients/js/custom.js')}}"></script>
     @yield('js')
 </body>
 </html>
