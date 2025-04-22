@@ -26,11 +26,9 @@
             </tr>
         </tfoot>
         <tbody>
-            
-
-
         </tbody>
     </table>
+    @include('parts.backend.delete')
 @endsection
 
 @section('script')
